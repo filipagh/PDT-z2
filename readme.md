@@ -1,3 +1,6 @@
+autor: Filip Agh  
+git: [github](https://github.com/filipagh/PDT-z2)
+
 # uloha 1
 ```EXPLAIN SELECT * from accounts where screen_name = 'realDonaldTrump'```
 
